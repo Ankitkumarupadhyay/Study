@@ -11,6 +11,8 @@ import UseEffect from "./folder/UseEffect";
 import UseContextparent from "./folder/UseContextparent";
 import UseReducer from "./folder/UseReducer";
 import Counter from "./folder/Counter";
+import TodoList from "./folder/TodoList";
+import Swiggy from "./swiggy/Swiggy";
 
 
 function App() {
@@ -42,7 +44,11 @@ function App() {
 
 {/* <UseReducer /> */}
 
-<Counter />
+{/* <Counter /> */}
+
+{/* <TodoList /> */}
+
+< Swiggy />
 
   </> 
   
